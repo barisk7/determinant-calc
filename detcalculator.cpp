@@ -60,7 +60,7 @@ int main (void) {
 
 //
 	printf("\n\nThe determinant of your main coefficient matrix is : %d",detcalculator(matrix,equnum));
-	//buraya kadar katsayilar matrisinin determinantýný bulmus olduk.
+	
 	
 	return 0;
 
