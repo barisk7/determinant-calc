@@ -60,9 +60,8 @@ int main (void) {
 
 //
 	printf("\n\nThe determinant of your main coefficient matrix is : %d",detcalculator(matrix,equnum));
-	//buraya kadar katsayilar matrisinin determinantını bulmus olduk.
+	//buraya kadar katsayilar matrisinin determinantÃ½nÃ½ bulmus olduk.
 	
 	return 0;
 
 } 
-//denklem sayisi,bilinmeyen sayisi,katsayilar matrisi,sonuclar matrisi elimizde var.simdi determinant hesaplayan bir fonksiyon kodlayacaz.
